@@ -1,0 +1,44 @@
+# ALLDIC_ALL.csv
+# ALLDIC_IM3.csv
+# ALLDIC_SINTESIS.csv
+# ALLDIC_TELKOMSEL.csv
+# ALLDIC_XL.csv
+# Classification SVM.ipynb
+# Normalize SentiMI.ipynb
+# OUT_ALL.csv
+# OUT_IM3.csv
+# OUT_SINTESIS.csv
+# OUT_TELKOMSEL.csv
+# OUT_XL.csv
+# PETUNJUK TA.txt
+# Preprocessing - BARASA.ipynb
+REVISI_IM3.txt
+REVISI_SINTESIS.txt
+REVISI_TELKOMSEL.txt
+REVISI_XL.txt
+# SentiWordNet.txt
+# Sentiwordnet Dic.ipynb
+# Sintesis_negatif.txt
+# Sintesis_positif.txt
+# Tweets
+barasa copy.txt
+# barasa.csv
+craw1
+craw2
+# data
+# data_DIC_TOTAL.csv
+# data_OUT_TOTAL.csv
+# data_TOTAL.txt
+labeledTrainData2.tsv
+# normalize_sentiMI.csv
+# pic1.png
+# pic2.png
+# pic3.png
+# pic4.png
+# pic5.png
+positif.csv
+python file
+# slang.dic
+stopwords_eng.txt
+# stopwords_id.txt
+.ipynb_checkpoints

@@ -1,0 +1,10 @@
+Guide untuk tugas akhir
+
+1. membuka aplikasi jupyter notebook dengan python 3
+2. membuka proses PREPROCESSING - BARASA
+3. menyimpan hasil pada proses PREPROCESSING pada .txt dengan seperti pada contoh data_TOTAL.txt
+4. membuka proses Sentiwordnet Dic untuk proses mencari kata pada lexical sentiwordnet
+5. menyimpan hasil sentiwordnet seperti pada contoh data_DIC_TOTAL.csv
+6. membuka proses normalize SentiMI untuk proses perhitungan bobot
+7. menyimpnah hasil normalisasi seperti pada contoh data_OUT_TOTAL.csv
+8. membuka proses Classification SVM untuk proses klasifikasi
